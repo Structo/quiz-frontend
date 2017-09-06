@@ -7,7 +7,9 @@ Create a React component to do the following:
 - You can preload array of countries as the dropdown values
 - Note: You do not need to follow the aethetic of the samples below.
 
+![Screenshot 1](./ss1.png)
 
+![Screenshot 2](./ss2.png)
 
 Please share the solution via a public git repository
 
